@@ -18,3 +18,5 @@ Verificar se é possível criar mais de um card se preenchermos os campos corret
 Verificar se é possível criar um card para cada time se preenchermos os campos corretamente.
     Dado que eu preencha os campos do formulário
     Então criar e identificar 1 card em cada time disponível
+
+# Fazendo este comentário apenas para testar o git.
